@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @halecrane05! A new and learning Developer!
-- 👀 I’m interested in CSS, HTML and JavaScript atm
+- 👀 I’m interested in all sorts of things! Reading, Art, Gaming, Coding and more!!
 - 🌱 I’m currently learning CSS, HTML and JS
-- 💞️ I’m looking to collaborate on anything, especially Game DEV
+- 💞️ I’m looking to collaborate on anything! I'm just learning to gain more experience in coding.
 - 📫 How to reach me: haleighcrane05@gmail.com
 
 <!---
